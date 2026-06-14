@@ -26,7 +26,7 @@ export default function DemoOne() {
                 'blur-[30px]',
               )}
             />
-            <h1 className="font-sans text-4xl font-semibold">Exploring 21st.dev Components</h1>
+            <h1 className="font-sans text-3xl font-semibold">Switch is Flexing Exploring 21st.dev Components</h1>
           </div>
         </DottedSurface>
       </div>
